@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+requests
+plotly
+pytz
+passlib
+sqlite3  # this is standard in Python and can be omitted
